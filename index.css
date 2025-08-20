@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount:wght@100..900&display=swap');
+
+ body{
+    margin: 0px;
+}
+.menu{
+padding: 20px;
+ background-image: repeating-linear-gradient(red,white);
+
+}
+h1{
+      font-family: "Bitcount", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    color: white;
+    text-shadow: 10px 10px 20px red;
+}
+.uniao{
+   padding: 10px;
+border: 1px blueviolet solid;
+}
+ .pai{
+display: block;
+    background-image: linear-gradient(black,red,white);
+    text-align: center;
+ }
+ .ligado{
+   margin-right: 20pxx;
+   border: 1px black solid;
+ }
+   
+ .filho{
+   font-size: 30px;
+     font-family: "Bitcount", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    text-shadow: 10px 10px 20px red;
+    color: white;
+ } 
+ .filho:hover{
+    padding: 5px;
+    color: black;
+ }
+ .andre{
+  display: flex;
+  background: black;
+   
+ }
+
+ img{ 
+   box-shadow: 10px 10px 20px red,10px 10px 20px white;
+   border-radius: 20px;
+   margin: 5px;
+   width: 450px;
+   height: 400px;
+ }
+ .videosp{
+  background: black;
+   overflow-x: auto;
+   display: flex;
+   margin-bottom: 20px;
+ }
+ .prima{
+  padding: 1px;
+  background-image: repeating-linear-gradient(white,red,black);
+ }
+ .primo{
+  text-align: center;
+  font-size: 30px;
+     font-family: "Bitcount", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: black;
+  text-shadow: 10px 10px 20px;
+ }
+ 
